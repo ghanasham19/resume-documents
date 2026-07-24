@@ -1,0 +1,76 @@
+Technical Skills-
+	>language:   			    java,python,sql,dart,javaScript(ES6+),html5,css3
+	>Technologies/Frameworks/Libraries: ReactJS, SpringBoot, Flutter,Agentic Ai,  NodeJS,Hibernate, JDBC, Spring Data JPA, LangChain4j, Spring AI, 						    FireStore, Maven, Git, Firebase,
+	>Databases:			    MySQL,Firebase,firestore
+	>Tools & platforms :                AWS,Git,GitHub,Docker,Postman,JWT,Firebase, REST APIs
+	>AI & Emerging Technologies:        Agentic AI(Learning), Prompt Enginnering,REST API Integration
+
+Freelance Experience-
+Freelance Full Stack Developer | 2026 – Present
+	>ThreadVibe – E-commerce Website:
+		      Tech Stack: React.js, Advanced Java, JWT, MySQL, Razorpay, REST APIs
+		      Designed and developed a full-stack e-commerce platform for a custom T-shirt printing business.
+		      Built a responsive frontend using React.js and a scalable backend using Advanced Java and REST APIs.
+		      Implemented secure user authentication and authorization using JWT.
+		      Integrated Razorpay payment gateway for secure online payments.
+		      Developed core e-commerce features including product catalog, shopping cart, wishlist, order management, user profiles, search,
+		      Delivered the application based on client requirements with a focus on performance, security, and user experience.
+	>CodeGurucool – Class Management Application:
+		      Tech Stack: Flutter, Firebase Authentication, Cloud Firestore, Razorpay
+		      Developed a cross-platform mobile application for a full-stack development institute.
+		      Implemented secure authentication using Firebase Authentication.
+		      Built a comprehensive admin panel to manage students, batches, courses, payments, and announcements.
+		      Integrated Razorpay payment gateway for online fee collection.
+		      Developed modules for student registration, attendance, notifications, course management, and payment tracking.
+		      Utilized Cloud Firestore for real-time data synchronization and scalable cloud storage.
+		      Delivered a production-ready application tailored to the institute's operational requirements.
+
+Academic Projects-
+	>GetSet – Engineering College Admission Counseling System
+			Tech Stack: React.js, Flask, Pythin, REST APIs
+			Developed a web-based counseling platform to help students choose engineering colleges based on entrance exam scores and 				preferences.
+			Built a responsive frontend using React.js and a Python backend for recommendation logic.
+			Integrated REST APIs for seamless communication between the frontend and backend.
+			Successfully deployed and used by my college during CET admission registration to assist prospective students.
+			
+	>ReshanDaata –Reshan Shop Management Application
+			Tech Stack: Flutter, Firebase (Authentication, Firestore)
+			Developed a mobile application to simplify inventory and customer management for ration shop owners.
+			Implemented Firebase Authentication and Firestore for secure login and real-time data synchronization.
+			Designed an intuitive Flutter interface for efficient day-to-day shop operations.
+			Actively used by 20+ ration shop owners to manage their business.
+	>ChatX – Secure & FrictionLess Messaging Application
+			Tech Stack: Flutter, Firebase
+			Developed a privacy-focused messaging application that enables users to chat without sharing phone numbers.
+			Implemented secure authentication using unique usernames and passwords.
+			Built real-time messaging with Firebase for a smooth and reliable chat experience.
+			Used by 100+ users, providing secure and frictionless communication while protecting user identity
+
+Positions of Responsibility/Ledership-
+	> Technical Secretary-CSESA
+	> Organizer Head of state level Project & idea  Pitching Compition - Inovetex2k26
+	> Organizer Head of state Nationl level Hackathon - Hacknovate 2k26 
+	> Team leder of  state Rayat avishkar compition Winner team
+	> Training & placement Coordinator
+
+
+Achievements-
+	> Selected as Cummins Scholar 
+	> State level rayat Avishkar project Competition 2nd price Winner
+	> Build a Counseling System adopted by my college during cet from registration process
+	> Developed Subscription base application used by real users
+	> Delivered 2 freelance projects and counting
+	> finalist in state level Group Discussion competition
+	> Recognises as ideal Technical Secretary in college
+
+Certifications-
+	>Infosys Springboard Certificate	
+	>ML workshop certificate 
+	>flutter internship certificate
+	
+
+
+
+
+
+
