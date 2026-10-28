@@ -1,0 +1,210 @@
+You are an expert ATS Resume Writer and Professional Resume Designer.
+
+I am providing:
+
+1. A senior's resume PDF (reference resume).
+2. My personal information, projects, skills, achievements, and experience.
+
+Your task is to create MY resume by using the senior's resume as the master template.
+
+STRICT REQUIREMENTS:
+
+* Keep the EXACT same resume structure.
+* Keep the EXACT same section order.
+* Keep the EXACT same professional formatting style.
+* Keep the EXACT same heading hierarchy.
+* Keep the EXACT same resume tone and writing style.
+* Keep the resume ATS-friendly.
+* Keep the resume to ONE PAGE.
+* Do NOT copy my senior's personal information.
+* Replace every section with my information.
+* Improve grammar, wording, and professionalism.
+* Convert weak descriptions into strong action-oriented resume bullet points.
+* Add quantified impact wherever possible.
+* Preserve a recruiter-friendly software engineering resume style.
+* If some information is missing, optimize using the provided details without inventing false achievements.
+* Use strong verbs such as Developed, Engineered, Architected, Implemented, Integrated, Designed, Optimized, Delivered, Built, Led, etc.
+* Format projects exactly like the reference resume.
+* Format skills exactly like the reference resume.
+* Format dates consistently with the reference resume.
+* Ensure spacing and alignment closely match the reference resume.
+
+========================
+MY DETAILS
+==========
+
+NAME:
+Ghanasham Balkrushna Dalvi
+
+EMAIL:
+[dalvighanasham@gmail.com](mailto:dalvighanasham@gmail.com)
+
+PHONE:
+9371809960
+
+LINKEDIN:
+https://www.linkedin.com/in/ghanasham-dalvi-a7783b307/
+
+GITHUB:
+https://github.com/ghanasham19
+
+========================
+PROFESSIONAL SUMMARY
+====================
+
+Target Role:
+Software Engineer / Full Stack Developer / Flutter Developer
+
+Key Technologies:
+Java, Spring Boot, Flutter, React.js, Firebase, Agentic AI
+
+========================
+EDUCATION
+=========
+
+Karmaveer Bhaurao Patil College of Engineering, Satara
+
+Bachelor of Technology in Computer Science Engineering
+
+August 2023 – Present
+
+CGPA: 7.0
+
+========================
+TECHNICAL SKILLS
+================
+
+Languages:
+Java, Python, SQL, Dart, JavaScript (ES6+), HTML5, CSS3
+
+Technologies/Frameworks/Libraries:
+React.js, Spring Boot, Flutter, Agentic AI, Node.js, Hibernate, JDBC, Spring Data JPA, LangChain4j, Spring AI, Firebase Firestore, Maven, Git, Firebase
+
+Databases:
+MySQL, Firebase Firestore
+
+Tools & Platforms:
+AWS, Git, GitHub, Docker, Postman, JWT, Firebase, REST APIs
+
+AI & Emerging Technologies:
+Agentic AI (Learning), Prompt Engineering, REST API Integration
+
+========================
+FREELANCE EXPERIENCE
+====================
+
+Freelance Full Stack Developer
+2026 – Present
+
+Project:
+ThreadVibe – E-commerce Website
+
+Tech Stack:
+React.js, Advanced Java, JWT, MySQL, Razorpay, REST APIs
+
+Responsibilities:
+
+* Designed and developed a full-stack e-commerce platform for a custom T-shirt printing business.
+* Built a responsive frontend using React.js.
+* Developed backend using Advanced Java and REST APIs.
+* Implemented JWT authentication and authorization.
+* Integrated Razorpay payment gateway.
+* Built product catalog, shopping cart, wishlist, order management, user profiles, and search functionality.
+* Delivered according to client requirements.
+
+Project:
+CodeGurucool – Class Management Application
+
+Tech Stack:
+Flutter, Firebase Authentication, Cloud Firestore, Razorpay
+
+Responsibilities:
+
+* Developed a cross-platform mobile application.
+* Implemented Firebase Authentication.
+* Built admin panel for students, batches, courses, payments, and announcements.
+* Integrated Razorpay payment gateway.
+* Developed attendance, notifications, course management, and payment tracking modules.
+* Used Cloud Firestore for real-time synchronization.
+* Delivered production-ready application.
+
+========================
+PROJECTS
+========
+
+Project:
+GetSet – Engineering College Admission Counseling System
+
+Tech Stack:
+React.js, Flask, Python, REST APIs
+
+Details:
+
+* Developed a counseling platform for engineering admissions.
+* Built React frontend.
+* Developed recommendation logic using Python.
+* Integrated REST APIs.
+* Successfully adopted by college during CET admission registration.
+
+Project:
+RationDaata – Ration Shop Management Application
+
+Tech Stack:
+Flutter, Firebase Authentication, Firestore
+
+Details:
+
+* Developed a mobile application for ration shop owners.
+* Implemented Firebase Authentication and Firestore.
+* Built inventory and beneficiary management system.
+* Used by 20+ ration shop owners.
+
+Project:
+ChatX – Secure & Frictionless Messaging Application
+
+Tech Stack:
+Flutter, Firebase
+
+Details:
+
+* Developed privacy-focused messaging application.
+* Users can communicate without sharing phone numbers.
+* Implemented secure authentication.
+* Built real-time messaging using Firebase.
+* Used by 100+ users.
+
+========================
+POSITIONS OF RESPONSIBILITY
+===========================
+
+* Technical Secretary – CSESA
+* Organizer Head, Innovetex 2K26
+* Organizer Head, Hacknovate 2K26
+* Team Leader, State-Level Rayat Avishkar Winning Team
+* Training & Placement Coordinator
+
+========================
+ACHIEVEMENTS
+============
+
+* Selected as Cummins Scholar
+* State-Level Rayat Avishkar Project Competition 2nd Place Winner
+* Built a counseling system adopted by my college during CET admissions
+* Developed a subscription-based application used by real users
+* Delivered multiple freelance projects
+* Finalist in State-Level Group Discussion Competition
+* Recognized for contributions as Technical Secretary
+
+========================
+CERTIFICATIONS
+==============
+
+* Infosys Springboard Certification
+* Machine Learning Workshop Certification
+* Flutter Internship Certification
+
+========================
+FINAL OUTPUT REQUIREMENT
+========================
+
+Return the complete resume in the exact style and structure of the uploaded reference resume. Optimize all bullet points to be placement-ready, ATS-friendly, and suitable for Software Engineer, Full Stack Developer, and Flutter Developer roles.
